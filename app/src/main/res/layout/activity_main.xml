@@ -25,7 +25,7 @@
         android:layout_height="match_parent"
         android:layout_margin="@dimen/fab_margin"
         android:gravity="center"
-        android:text="Long press on FAB to see selector_fab.xml in action. Two vector drawables are directly embedded in selector_fab.xml. This technique helps reduce the number of XML resources." />
+        android:text="Press on FAB to see selector_fab.xml in action. Two vector drawables are directly embedded in selector_fab.xml. This technique helps reduce the number of XML resources." />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
